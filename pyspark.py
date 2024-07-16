@@ -38,7 +38,6 @@ schema = StructType([
 df_writing = df.select(from_json(col('value').cast('string'), schema).alias('data')).select('data.*')
 
 
-# COMMAND ----------
 
 def writeToElasticsearch(df, epoch_id):
     df.write \
@@ -57,6 +56,5 @@ streamingQuery = df_writing.writeStream \
     .start()
 
 
-# COMMAND ----------
 
 
