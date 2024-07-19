@@ -29,5 +29,6 @@ We are going to use different technologies such as Python, Apache Kafka, Pyspark
 
 ### Project Overview
 
-https://github.com/user-attachments/assets/199c741c-9f2f-4351-8ba8-ff8ef975a09a
+https://github.com/user-attachments/assets/15053f27-e39e-4eea-aa3c-146bdec7ff83
+
 
