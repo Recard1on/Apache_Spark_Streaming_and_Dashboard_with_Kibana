@@ -29,4 +29,5 @@ We are going to use different technologies such as Python, Apache Kafka, Pyspark
 
 ### Project Overview
 
-![](https://github.com/Recard1on/Apache_Spark_Streaming_and_Dashboard_with_Kibana/blob/main/example_view.gif)
+https://github.com/user-attachments/assets/199c741c-9f2f-4351-8ba8-ff8ef975a09a
+
