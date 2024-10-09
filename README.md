@@ -2,8 +2,7 @@
 
 ### Introduction
 
-In this project, you will execute an End-To-End Data Engineering Project on Real-Time Bank Simulation Data using Kafka and Spark Streaming.
-We are going to use different technologies such as Python, Apache Kafka, Pyspark, DigitalOcean, ElasticSearch, and Kibana.
+This project involves executing an end-to-end real-time data engineering pipeline using simulated bank transaction data. Leveraging technologies such as Python, Apache Kafka, PySpark, DigitalOcean, Elasticsearch, and Kibana, the project focuses on real-time data streaming and processing with Apache Spark. The pipeline enables real-time data ingestion, transformation, and visualization to deliver actionable insights and support critical decision-making processes.
 
 ### Architecture
 
